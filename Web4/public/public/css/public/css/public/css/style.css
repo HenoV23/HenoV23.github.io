@@ -51,7 +51,7 @@ header .nav-item a:hover::after{
 .footer{
     display: flex;
     align-items: center;
-    background-color: #343a40;
+    background-color: #FFDAB9;
     height: 80px;
 }
 .footer_body{
